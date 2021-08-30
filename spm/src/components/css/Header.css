@@ -4,11 +4,12 @@ header{
     justify-content: space-around;
     align-items: center;
     overflow: hidden;
+    background: black;
 }
 header .logo a{
     text-decoration: none;
     text-transform: uppercase;
-    color: black;
+    color: white;
 }
 header nav{
     display: flex;
@@ -20,7 +21,7 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     text-transform: uppercase;
-    color: #555;
+    color: white;
     padding: 0 15px;
 }
 nav ul li a:hover{
