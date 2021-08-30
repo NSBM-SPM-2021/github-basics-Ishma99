@@ -1,7 +1,7 @@
 header{
     min-height: 70px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     overflow: hidden;
     background: black;
@@ -10,9 +10,11 @@ header .logo a{
     text-decoration: none;
     text-transform: uppercase;
     color: white;
+    margin-left: 50px;
 }
 header nav{
     display: flex;
+    margin-right: 50px;
 }
 nav ul li{
     list-style: none;
@@ -40,7 +42,7 @@ nav .nav-cart span{
     color: white;
     padding: 3px 5px;
     border-radius: 50%;
-    z-index: -1;
+    z-index: auto;
 }
 header .menu,
 header .close{
