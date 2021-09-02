@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import ImgBg from '../images/sweet-2.jpg';
+
 
 export const DataContext = React.createContext();
 
@@ -9,7 +11,7 @@ export class DataProvider extends Component {
             {
                 "_id": "1",
                 "title": "Cake 01",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img1.jpg",
+                "src": ImgBg,
                 "description": "Cake summary",
                 "content": "Cake Description",
                 "price": 23,
