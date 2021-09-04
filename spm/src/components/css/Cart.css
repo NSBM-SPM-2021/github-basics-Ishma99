@@ -3,7 +3,7 @@ section .cart{
     border: 1px solid #ccc;
 }
 .amount span{
-    color: crimson;
+    color: #e31837;
     padding: 0 20px;
 }
 .amount .count{
@@ -18,7 +18,7 @@ section .cart{
     position: absolute;
     top:0;
     right: 5px;
-    color: crimson;
+    color: #e31837;
     cursor: pointer;
     font-weight: 900;
 }
@@ -39,5 +39,5 @@ section .cart{
 }
 .total h3{
     margin-right: 50px;
-    color: crimson;
+    color: #e31837;
 }

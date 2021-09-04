@@ -15,7 +15,6 @@ export class DataProvider extends Component {
                 "description": "Cake summary",
                 "content": "Cake Description",
                 "price": 23,
-                "colors": ["red", "black", "crimson", "teal"],
                 "count": 1
             },
             {
@@ -24,8 +23,7 @@ export class DataProvider extends Component {
                 "src": "https://www.upsieutoc.com/images/2020/06/27/img2.jpg",
                 "description": "Cake summary",
                 "content": "Cake Description",
-                "price": 19,
-                "colors": ["red", "crimson", "teal"],
+                "price": 89,
                 "count": 1
             },
             {
@@ -35,7 +33,6 @@ export class DataProvider extends Component {
                 "description": "Cake summary",
                 "content": "Cake Description",
                 "price": 50,
-                "colors": ["lightblue", "white", "crimson", "teal"],
                 "count": 1
             },
             {
@@ -45,7 +42,6 @@ export class DataProvider extends Component {
                 "description": "Cake summary",
                 "content": "Cake Description",
                 "price": 15,
-                "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             },
             {
@@ -55,7 +51,6 @@ export class DataProvider extends Component {
                 "description": "Cake summary",
                 "content": "Cake Description",
                 "price": 10,
-                "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             },
             {
@@ -65,7 +60,6 @@ export class DataProvider extends Component {
                 "description": "Cake summary",
                 "content": "Cake Description",
                 "price": 17,
-                "colors": ["orange", "black", "crimson", "teal"],
                 "count": 1
             }
         ],
