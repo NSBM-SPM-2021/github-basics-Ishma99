@@ -41,7 +41,7 @@ export class Cart extends Component {
                     }
                     <div className="total">
                         <Link to="/payment">Payment</Link>
-                        <h3>Total: Rs {total}</h3>
+                        <h3>TOTAL: Rs {total}</h3>
                     </div>
                 </>
                 )
