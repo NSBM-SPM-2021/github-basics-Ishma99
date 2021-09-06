@@ -1,5 +1,10 @@
 import React, { Component } from 'react'
-import ImgBg from '../images/sweet-2.jpg';
+import ImgBg1 from '../images/cake1.jpg';
+import ImgBg2 from '../images/cake2.jpg';
+import ImgBg3 from '../images/cake3.jpg';
+import ImgBg4 from '../images/cake4.jpg';
+import ImgBg5 from '../images/cake5.jpg';
+import ImgBg6 from '../images/cake6.jpg';
 
 
 export const DataContext = React.createContext();
@@ -10,56 +15,50 @@ export class DataProvider extends Component {
         products: [
             {
                 "_id": "1",
-                "title": "Cake 01",
-                "src": ImgBg,
-                "description": "Cake summary",
-                "content": "Cake Description",
-                "price": 23,
+                "title": "Chocolate Cake Slice",
+                "src": ImgBg1,
+                "description": "Cake Summary",
+                "price": 280,
                 "count": 1
             },
             {
                 "_id": "2",
-                "title": "Cake 02",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img2.jpg",
-                "description": "Cake summary",
-                "content": "Cake Description",
-                "price": 89,
+                "title": "Blueberry Muffin",
+                "src": ImgBg2,
+                "description": "Cake Summary",
+                "price": 120,
                 "count": 1
             },
             {
                 "_id": "3",
-                "title": "Cake 03",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img3.jpg",
-                "description": "Cake summary",
-                "content": "Cake Description",
-                "price": 50,
+                "title": "Doughnut",
+                "src": ImgBg3,
+                "description": "Cake Summary",
+                "price": 200,
                 "count": 1
             },
             {
                 "_id": "4",
-                "title": "Cake 04",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img4.jpg",
-                "description": "Cake summary",
-                "content": "Cake Description",
-                "price": 15,
+                "title": "Brownies",
+                "src": ImgBg4,
+                "description": "Cake Summary",
+                "price": 120,
                 "count": 1
             },
             {
                 "_id": "5",
-                "title": "Cake 05",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img5.jpg",
-                "description": "Cake summary",
-                "content": "Cake Description",
-                "price": 10,
+                "title": "Chocolate Chip Cookie",
+                "src": ImgBg5,
+                "description": "Cake Summary",
+                "price": 80,
                 "count": 1
             },
             {
                 "_id": "6",
-                "title": "Cake 06",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img6.jpg",
-                "description": "Cake summary",
-                "content": "Cake Description",
-                "price": 17,
+                "title": "Oreo Cookies & Cream",
+                "src": ImgBg6,
+                "description": "Cake Summary",
+                "price": 450,
                 "count": 1
             }
         ],
