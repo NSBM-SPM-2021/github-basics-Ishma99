@@ -43,6 +43,7 @@
 .card span{
     color: crimson;
     margin-left: 45%;
+    font-weight: bold;
 }
 .card p{
     margin: 10px 0;
