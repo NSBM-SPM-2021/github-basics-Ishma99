@@ -17,8 +17,8 @@ export default class Home extends Component {
     <HeroContainer>
       <HeroContent>
         <HeroItems>
-          <HeroH1>Butter Boutique</HeroH1>
-          <HeroP>At your doorstep</HeroP>
+          <HeroH1>Handcrafted With Love</HeroH1>
+          <HeroP>From Ours To Yours</HeroP>
         </HeroItems>
       </HeroContent>
     </HeroContainer>

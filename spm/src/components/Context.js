@@ -17,7 +17,7 @@ export class DataProvider extends Component {
                 "_id": "1",
                 "title": "Chocolate Cake Slice",
                 "src": ImgBg1,
-                "description": "Cake Summary",
+                "description": "A super rich chocolate truffle and buttercream",
                 "price": 280,
                 "count": 1
             },
@@ -25,7 +25,7 @@ export class DataProvider extends Component {
                 "_id": "2",
                 "title": "Blueberry Muffin",
                 "src": ImgBg2,
-                "description": "Cake Summary",
+                "description": "Fluffy muffins packed with juicy blueberries",
                 "price": 120,
                 "count": 1
             },
@@ -33,7 +33,7 @@ export class DataProvider extends Component {
                 "_id": "3",
                 "title": "Doughnut",
                 "src": ImgBg3,
-                "description": "Cake Summary",
+                "description": "Fried doughnut with a chocolate ganache",
                 "price": 200,
                 "count": 1
             },
@@ -41,7 +41,7 @@ export class DataProvider extends Component {
                 "_id": "4",
                 "title": "Brownies",
                 "src": ImgBg4,
-                "description": "Cake Summary",
+                "description": "Gooey classic brownies with a cracky top",
                 "price": 120,
                 "count": 1
             },
@@ -49,7 +49,7 @@ export class DataProvider extends Component {
                 "_id": "5",
                 "title": "Chocolate Chip Cookie",
                 "src": ImgBg5,
-                "description": "Cake Summary",
+                "description": "Chewy centre filled with chunks of chocolate",
                 "price": 80,
                 "count": 1
             },
@@ -57,7 +57,7 @@ export class DataProvider extends Component {
                 "_id": "6",
                 "title": "Oreo Cookies & Cream",
                 "src": ImgBg6,
-                "description": "Cake Summary",
+                "description": "Crunchy bites with Oreo Munch! Enriched with rich chocolate and milky buttercream packed with Oreos",
                 "price": 450,
                 "count": 1
             }
