@@ -17,7 +17,7 @@ export class DataProvider extends Component {
                 "_id": "1",
                 "title": "Chocolate Cake Slice",
                 "src": ImgBg1,
-                "description": "A super rich chocolate truffle and buttercream",
+                "description": "Super rich chocolate truffle and buttercream",
                 "price": 280,
                 "count": 1
             },
@@ -57,7 +57,7 @@ export class DataProvider extends Component {
                 "_id": "6",
                 "title": "Oreo Cookies & Cream",
                 "src": ImgBg6,
-                "description": "Crunchy bites with Oreo Munch! Enriched with rich chocolate and milky buttercream packed with Oreos",
+                "description": "Milky buttercream packed with Oreos",
                 "price": 450,
                 "count": 1
             }
