@@ -65,3 +65,7 @@ form {
     padding: 1rem;
     border: 0.1rem #c0c0c0 solid;
   }
+
+.btn pink lighten-1 z-depth-0 {
+    padding: 20px !important;
+}

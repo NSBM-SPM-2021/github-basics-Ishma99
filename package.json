@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "model": "^6.0.1",
+    "react-modal": "^3.14.3",
+    "react-model": "^4.1.4",
+    "zoom": "^0.0.2"
+  }
+}

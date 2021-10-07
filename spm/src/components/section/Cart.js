@@ -96,9 +96,9 @@ export class Cart extends Component {
               onChange={(e)=>this.setState({Address:e.target.value})} />
                         </li>
                         <div className="total">
-                        <h3>Total: Rs.{total}</h3>
-                        <div className="input-field" onClick={this.togglePop}>
-               <button className="btn pink lighten-1 z-depth-0">order</button>
+                        <h3>Total: Rs {total}</h3>
+                        <div  className="input-field" onClick={this.togglePop}>
+               <button  className="btn pink lighten-1 z-depth-0">Order</button>
                </div>  
                         {this.state.seen ? <PopUp toggle={this.togglePop}  /> : null}
                       </div>  
