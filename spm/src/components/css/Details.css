@@ -12,6 +12,8 @@
     object-fit: cover;
     margin: 25px;
 }
+
+/*cart*/
 .details .box{
     max-width: 500px;
     min-width: 290px;
