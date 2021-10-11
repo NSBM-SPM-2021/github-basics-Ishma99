@@ -20,8 +20,8 @@ jobs:
     - name: Install and build
       run: npm install && npm run build && cp build/index.html 
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.1
-        with:
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@4.1.1
+      with:
           branch: app-deploy 
           folder: build
